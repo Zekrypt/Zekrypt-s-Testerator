@@ -1,4 +1,4 @@
-# Zekrypt-s-Testerator
-just tests
+# Testerator: "Is Just Some Global Test/s"
 -
 تقدر تقول اني بحط اي حاجه هنا بشكل عشوائي عشان بجرب لما بكون زهقان..
+-
